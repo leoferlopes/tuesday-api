@@ -38,7 +38,7 @@ Emoji | Code | Commit Type
 :see_no_evil: | `:see_no_evil:` | Ugly hack.
 :package: | `:package:` | New release.
 :eyeglasses: | `:eyeglasses:` | Modified GUI.
-:wrench: | `:wrench:` | Modified configuration files.
+:wrench: | `:wrench:` | Modified config files.
 :bulb: | `:bulb:` | When removing linter warnings.
 
 ### Example

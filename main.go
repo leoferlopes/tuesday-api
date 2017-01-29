@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"os"
 
 	"github.com/leoferlopes/tuesday-api/api"
 )
@@ -20,11 +19,5 @@ var (
 func main() {
 	fmt.Printf("build=%s-%s date=%s\n\n", GitBranch, GitSummary, BuildDate)
 
-	port := os.Getenv("PORT")
-
-	if port == "" {
-		return
-	}
-
-	api.Run(port)
+	api.Run()
 }
