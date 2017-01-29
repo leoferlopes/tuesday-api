@@ -1,0 +1,17 @@
+{
+  "pizzaria": "O Forno Rio",
+  "pizzas": [
+    {
+      "code": "calabresa",
+      "name": "Calabresa",
+      "description": "Mussarela especial, calabresa e cebola.",
+      "price": 1995
+    },
+    {
+      "code": "mussarela",
+      "name": "Mussarela Tradicional",
+      "description": "Mussarela Especial.",
+      "price": 1995
+    }
+  ]
+}

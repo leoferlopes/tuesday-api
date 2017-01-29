@@ -1,0 +1,17 @@
+{
+  "pizzaria": "O Forno Rio",
+  "pizzas": [
+    {
+      "code": "francesa",
+      "name": "francesa",
+      "description": "Mussarela especial, presunto, catupiry e ovos.",
+      "price": 1995
+    },
+    {
+      "code": "margherita",
+      "name": "Margherita",
+      "description": "Mussarela especial, tomates frescos, parmesão e manjericão fresco.",
+      "price": 1995
+    }
+  ]
+}

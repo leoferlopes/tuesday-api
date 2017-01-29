@@ -1,0 +1,101 @@
+{
+  "pizzaria": "O Forno Rio",
+  "pizzas": [
+    {
+      "code": "alho",
+      "name": "Alho e Óleo",
+      "description": "Mussarela especial, parmesão e alho frito.",
+      "price": 1995
+    },
+    {
+      "code": "atum",
+      "name": "Atum",
+      "description": "Mussarela especial, atum, cebola e tomates frecos.",
+      "price": 1995
+    },
+    {
+      "code": "calabresa",
+      "name": "Calabresa",
+      "description": "Mussarela especial, calabresa e cebola.",
+      "price": 1995
+    },
+    {
+      "code": "calabria",
+      "name": "Calabria",
+      "description": "Catupiry, calabresa e parmesão.",
+      "price": 1995
+    },
+    {
+      "code": "forno",
+      "name": "Forno",
+      "description": "Frango desfiado, catupiry e mussarela especial.",
+      "price": 1995
+    },
+    {
+      "code": "francesa",
+      "name": "francesa",
+      "description": "Mussarela especial, presunto, catupiry e ovos.",
+      "price": 1995
+    },
+    {
+      "code": "lombo",
+      "name": "Lombo",
+      "description": "Catupiry, lombo canadense defumado e cebola.",
+      "price": 1995
+    },
+    {
+      "code": "margherita",
+      "name": "Margherita",
+      "description": "Mussarela especial, tomates frescos, parmesão e manjericão fresco.",
+      "price": 1995
+    },
+    {
+      "code": "milao",
+      "name": "Milão",
+      "description": "Presunto picado, mussarela especial, calabresa moída, cebola e azeitona verde fatiada.",
+      "price": 1995
+    },
+    {
+      "code": "mista",
+      "name": "Mista",
+      "description": "Presunto e mussarela especial.",
+      "price": 1995
+    },
+    {
+      "code": "mussarela",
+      "name": "Mussarela Tradicional",
+      "description": "Mussarela Especial.",
+      "price": 1995
+    },
+    {
+      "code": "napolitana",
+      "name": "Napolitana",
+      "description": "Mussarela especial, tomates frescos, parmesão e azeitona preta portuguesa.",
+      "price": 1995
+    },
+    {
+      "code": "pepperoni",
+      "name": "Pepperoni",
+      "description": "Mussarela especial, pepperoni e cebola.",
+      "price": 1995
+    },
+    {
+      "code": "portuguesa",
+      "name": "Portuguesa",
+      "description": "Mussarela especial, presunto, ovos, cebola e azeitona preta portuguesa.",
+      "price": 2295
+    },
+    {
+      "code": "4-queijos",
+      "name": "4 Queijos",
+      "description": "Catupiry, mussarela especial, provolone e parmesão.",
+      "price": 2295
+    },
+    {
+      "code": "toscana",
+      "name": "Toscana",
+      "description": "Mussarela especial, calabresa moída, parmesão e cebola.",
+      "price": 2245
+    }
+  ]
+}

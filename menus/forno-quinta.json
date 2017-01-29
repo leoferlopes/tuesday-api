@@ -1,0 +1,17 @@
+{
+  "pizzaria": "O Forno Rio",
+  "pizzas": [
+    {
+      "code": "forno",
+      "name": "Forno",
+      "description": "Frango desfiado, catupiry e mussarela especial.",
+      "price": 1995
+    },
+    {
+      "code": "mista",
+      "name": "Mista",
+      "description": "Presunto e mussarela especial.",
+      "price": 1995
+    }
+  ]
+}

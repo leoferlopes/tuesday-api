@@ -1,0 +1,17 @@
+{
+  "pizzaria": "O Forno Rio",
+  "pizzas": [
+    {
+      "code": "lombo",
+      "name": "Lombo",
+      "description": "Catupiry, lombo canadense defumado e cebola.",
+      "price": 1995
+    },
+    {
+      "code": "portuguesa",
+      "name": "Portuguesa",
+      "description": "Mussarela especial, presunto, ovos, cebola e azeitona preta portuguesa.",
+      "price": 2295
+    }
+  ]
+}

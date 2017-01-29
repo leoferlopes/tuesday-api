@@ -1,4 +1,4 @@
 {
   "address": "0.0.0.0:5000",
-  "menu": "menu.json"
+  "menu": "menus/forno-happyhour.json"
 }

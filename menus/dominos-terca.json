@@ -1,0 +1,125 @@
+{
+  "pizzaria": "Domino's",
+  "pizzas": [
+    {
+      "code": "3-queijos",
+      "name": "Catuperone",
+      "description": "Molho, Mussarela, Parmesão, Requeijão, Orégano e Parmesão.",
+      "price": 1995
+    },
+    {
+      "code": "bauru",
+      "name": "Bauru",
+      "description": "Presunto, Mussarela, Requeijão, Orégano, Molho e Tomate.",
+      "price": 1995
+    },
+    {
+      "code": "calabresa",
+      "name": "Calabresa",
+      "description": "Mussarela, Cebola, Calabresa, Molho, Orégano e Cebola.",
+      "price": 1995
+    },
+    {
+      "code": "frango-requeijao",
+      "name": "Frango com requeijão",
+      "description": "Frango, Cebola, Requeijão, Molho, Orégano e Requeijão.",
+      "price": 1995
+    },
+    {
+      "code": "margherita",
+      "name": "Margherita",
+      "description": "Mussarela, Molho, Orégano, Tomate e Manjericão.",
+      "price": 1995
+    },
+    {
+      "code": "pepperoni",
+      "name": "Pepperoni",
+      "description": "Molho, Mussarela, Orégano e Pepperoni.",
+      "price": 1995
+    },
+    {
+      "code": "frango-philadelphia",
+      "name": "Frango Philadelphia",
+      "description": "Molho, Mussarela, Frango, Philadelphia®, Parmesão e Orégano.",
+      "price": 2295
+    },
+    {
+      "code": "portuguesa",
+      "name": "Portuguesa",
+      "description": "Mussarela, Cebola, Pimentão, Presunto, Azeitona preta, Molho, Orégano e Ovo de codorna fatiado.",
+      "price": 2295
+    },
+    {
+      "code": "4-queijos",
+      "name": "4 Queijos",
+      "description": "Molho, Mussarela, Orégano, Parmesão, Requeijão, Gorgonzola e Parmesão.",
+      "price": 2295
+    },
+    {
+      "code": "america",
+      "name": "América",
+      "description": "Mussarela, Cebola, Pimentão, Champignon, Pepperoni, Molho e Orégano.",
+      "price": 2295
+    },
+    {
+      "code": "calabresa-especial",
+      "name": "Calbresa Especial",
+      "description": "Azeitona preta, Calabresa, Cebola, Philadelphia®, Molho, Orégano e Mussarela.",
+      "price": 2295
+    },
+    {
+      "code": "catuperoni",
+      "name": "Catuperoni",
+      "description": "Molho, Mussarela, Orégano, Pepperoni, Requeijão, Parmesão, Parmesão e Requeijão.",
+      "price": 2295
+    },
+    {
+      "code": "la-bianca",
+      "name": "La Bianca",
+      "description": "Mussarela, Mussarela de bufala, Requeijão, Parmesão, Manjericão, Molho e Orégano.",
+      "price": 2295
+    },
+    {
+      "code": "toscana",
+      "name": "Toscana",
+      "description": "Cebola, Calabresa, Azeitona preta, Mussarela, Molho, Orégano, Requeijão, Tomate e Manjericão.",
+      "price": 2295
+    },
+    {
+      "code": "veggie",
+      "name": "Veggie",
+      "description": "Azeitona preta, Cebola, Champignon, Molho, Mussarela, Orégano e Pimentão.",
+      "price": 2295
+    },
+    {
+      "code": "pepperrock",
+      "name": "Pepperrock",
+      "description": "Mussarela, Pepperoni, Parmesão, Azeitona preta, Philadelphia®, Orégano e Alho granulado.",
+      "price": 2495
+    },
+    {
+      "code": "carne-seca",
+      "name": "Carne Seca",
+      "description": "Orégano, Cebola, Philadelphia®, Carne seca, Molho e Mussarela.",
+      "price": 2495
+    },
+    {
+      "code": "de-luxe",
+      "name": "De Luxe",
+      "description": "Mussarela, Cebola, Pimentão, Pepperoni, Calabresa, Champignon, Molho e Orégano.",
+      "price": 2495
+    },
+    {
+      "code": "extravaganzza",
+      "name": "Extravaganzza",
+      "description": "Azeitona preta, Cebola, Champignon, Molho, Mussarela, Orégano, Pepperoni, Pimentão e Presunto.",
+      "price": 2495
+    },
+    {
+      "code": "frango-grelhado",
+      "name": "Frango Grelhado",
+      "description": "Tomate, Requeijão, Orégano, Molho, Mussarela, Manjericão, Azeitona preta e Frango.",
+      "price": 2495
+    }
+  ]
+}
