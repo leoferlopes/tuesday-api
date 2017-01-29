@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/crissilvaeng/goseed/api"
+	"github.com/leoferlopes/tuesday-api/api"
 )
 
 // Provides by govvv in compile-time.

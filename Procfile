@@ -1,1 +1,1 @@
-web: goseed
+web: tuesday-api

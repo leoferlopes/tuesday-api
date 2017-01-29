@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/crissilvaeng/goseed/api/routes"
+	"github.com/leoferlopes/tuesday-api/api/routes"
 
 	"github.com/gin-gonic/gin"
 )

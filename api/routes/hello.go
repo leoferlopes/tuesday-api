@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/crissilvaeng/goseed/api/universe"
+	"github.com/leoferlopes/tuesday-api/api/universe"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,32 +1,6 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/crissilvaeng/goseed"><img src="https://golang.org/doc/gopher/appenginegophercolor.jpg" alt="Go Seed" width="200"></a>
-  <br>
-  Go Seed
-  <br>
-  <br>
-</h1>
+# Tuesday API
 
-<h4 align="center">A seed project for Restful Web APIs</h4>
-<h5 align="center">Built with Golang and Gin</h5>
-
-<p align="center">
-  <a href="https://travis-ci.org/crissilvaeng/goseed"><img src="https://travis-ci.org/crissilvaeng/goseed.svg?branch=master" alt="Build Status"></a>
-  <a href="https://coveralls.io/github/crissilvaeng/goseed?branch=HEAD"><img src="https://coveralls.io/repos/github/crissilvaeng/goseed/badge.svg?branch=HEAD" alt="Coverage Status"></a>
-  <a href="https://goreportcard.com/report/github.com/crissilvaeng/goseed"><img src="https://goreportcard.com/badge/github.com/crissilvaeng/goseed" alt="Go Report Card"></a>
-  <a href="https://github.com/crissilvaeng/goseed/releases"><img src="https://img.shields.io/github/release/crissilvaeng/goseed.svg" alt="Latest Release"></a>
-  <a href="https://godoc.org/github.com/crissilvaeng/goseed"><img src="https://godoc.org/github.com/crissilvaeng/goseed?status.svg" alt="GoDoc"></a>
-  <a href="https://golang.org/doc/devel/release.html"><img src="https://img.shields.io/badge/go%20version-1.7-orange.svg" alt="Go Version"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://golang.org/doc/gopher/">Gopher Images</a> by <a href="http://www.reneefrench.com/">Renée French</a> is licensed under <a href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attributions</a>
-</p>
-
-## Proposal
-
-This repository is a seed for API projects developed in Go. It contains the dependencies, basic structure, test scripts and coverage. It is possible to easily integrate it with other services like [Travis Ci](https://travis-ci.org/), [Heroku](https://www.heroku.com/) and [Coveralls](https://coveralls.io/).
+It's pizza time!
 
 ## Use from the source
 
@@ -39,21 +13,21 @@ Using govendor the following instructions should work fine, otherwise check the 
 **On Windows**
 
 ```bash
-> go get -u github.com/crissilvaeng/goseed
-> cd %GOPATH%\github.com\crissilvaeng\goseed
+> go get -u github.com/leoferlopes/tuesday-api
+> cd %GOPATH%\github.com\leoferlopes\tuesday-api
 > govendor sync
 > go get
-> goseed
+> tuesday-api
 ```
 
 **On Linux**
 
 ```bash
-$ go get -u github.com/crissilvaeng/goseed
-$ cd $GOPATH/github.com/crissilvaeng/goseed
+$ go get -u github.com/leoferlopes/tuesday-api
+$ cd $GOPATH/github.com/leoferlopes/tuesday-api
 $ govendor sync
 $ go get
-$ goseed
+$ tuesday-api
 ```
 
 To test, run this command `PORT=5000 go run main.go`.
